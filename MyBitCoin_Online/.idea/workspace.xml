@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ae633b4-aea6-40eb-81f9-71349b39b845" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="utils.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/utils.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-115">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockchain.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/code/main/blockchain.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockchain_iterator.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/blockchain_iterator.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cli_createBlockChain.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/cli_createBlockChain.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cli_createWallet.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/cli_createWallet.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="cli_getbalance.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/cli_getbalance.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-437">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cli_send.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/cli_send.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cli_startnode.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/cli_startnode.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18135">
+              <caret line="412" column="9" selection-start-line="412" selection-start-column="9" selection-end-line="412" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cli.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/main/cli.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1440">
+              <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CLI</find>
+      <find>SignTransaction</find>
+      <find>NewUTXOTransaction</find>
+      <find>FindSpendableOutputs</find>
+      <find>cb</find>
+      <find>Find</find>
+      <find>Fin</find>
+      <find>创建成功</find>
+      <find>Finds</find>
+      <find>开启一个节点</find>
+      <find>监听</find>
+      <find>收到交易自行挖矿没有任何交易，等待新的交易加入</find>
+      <find>没有任何交易，等待新的交易加入</find>
+      <find>收到库存</find>
+      <find>地址不可</find>
+      <find>交易成功</find>
+      <find>收到命令</find>
+      <find>正在挖矿</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/main.go" />
+        <option value="$PROJECT_DIR$/src/init/init.go" />
+        <option value="$PROJECT_DIR$/src/model/blockModel.go" />
+        <option value="$PROJECT_DIR$/src/block/blockModel.go" />
+        <option value="$PROJECT_DIR$/src/chain/chainModel.go" />
+        <option value="$PROJECT_DIR$/src/code/chain/chainModel.go" />
+        <option value="$PROJECT_DIR$/src/code/main/test.go" />
+        <option value="$PROJECT_DIR$/src/code/block/blockModel.go" />
+        <option value="$PROJECT_DIR$/src/code/proofOfWork/pow.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/pow.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/blockModel.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/commandLine.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/chainModel.go" />
+        <option value="$PROJECT_DIR$/src/code/main/commandLine.go" />
+        <option value="$PROJECT_DIR$/src/code/main/blocck.go" />
+        <option value="$PROJECT_DIR$/src/code/main/blockchain/proofofwork.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/proofofwork.go" />
+        <option value="$PROJECT_DIR$/src/code/cli/cli.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/cli.go" />
+        <option value="$PROJECT_DIR$/src/code/blockchain/chain.go" />
+        <option value="$PROJECT_DIR$/src/code/main/block.go" />
+        <option value="$PROJECT_DIR$/src/code/main/main.go" />
+        <option value="$PROJECT_DIR$/src/code/tools/utils.go" />
+        <option value="$PROJECT_DIR$/src/code/main/base58.go" />
+        <option value="$PROJECT_DIR$/src/code/wallent/wallent.go" />
+        <option value="$PROJECT_DIR$/src/code/wallent/wallents.go" />
+        <option value="$PROJECT_DIR$/src/code/main/transaction_input.go" />
+        <option value="$PROJECT_DIR$/src/code/wallent/wallet.go" />
+        <option value="$PROJECT_DIR$/src/code/wallent/wallets.go" />
+        <option value="$USER_HOME$/Downloads/代码/代码(12)/transaction.go" />
+        <option value="$PROJECT_DIR$/src/code/main/Iterator.go" />
+        <option value="$PROJECT_DIR$/src/code/main/chain.go" />
+        <option value="$PROJECT_DIR$/src/code/main/cli_showchain.go" />
+        <option value="$PROJECT_DIR$/src/code/main/cli_createBlockChain.go" />
+        <option value="$PROJECT_DIR$/src/code/main/transaction.go" />
+        <option value="$PROJECT_DIR$/src/code/tools/base58.go" />
+        <option value="$PROJECT_DIR$/src/code/tools/serialize.go" />
+        <option value="$PROJECT_DIR$/src/code/main/cli_getbalance.go" />
+        <option value="$PROJECT_DIR$/src/code/main/wallet.go" />
+        <option value="$PROJECT_DIR$/src/code/main/cli_startnode.go" />
+        <option value="$PROJECT_DIR$/src/code/main/cli_send.go" />
+        <option value="$PROJECT_DIR$/src/code/main/proofofwork.go" />
+        <option value="$PROJECT_DIR$/src/code/main/transaction_output.go" />
+        <option value="$PROJECT_DIR$/src/code/main/utils.go" />
+        <option value="$PROJECT_DIR$/src/code/main/server.go" />
+        <option value="$PROJECT_DIR$/src/code/main/cli.go" />
+        <option value="$PROJECT_DIR$/src/code/main/blockchain.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="362" />
+    <option name="y" value="49" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyBitCoin_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBitCoin_Online" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBitCoin_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBitCoin_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBitCoin_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBitCoin_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBitCoin_Online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBitCoin_Online" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LogAgent" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Go\MyBitCoin\src\code\tools" />
+      <recent name="D:\WorkSpace\Go\MyBitCoin\src\code\main" />
+      <recent name="D:\WorkSpace\Go\MyBitCoin\src\code\blockchain" />
+      <recent name="D:\WorkSpace\Go\MyBitCoin\src\code\cli" />
+      <recent name="D:\WorkSpace\Go\MyBitCoin\src\code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Go\MyBitCoin_Online\src\code\main" />
+      <recent name="D:\WorkSpace\Go\MyBitCoin\src\code\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build code/main">
+    <configuration name="go build base58.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyBitCoin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/code/main/base58.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build code" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyBitCoin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="code" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build code/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyBitCoin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="code/main" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build code/wallent" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyBitCoin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="code/wallent" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build src/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MyBitCoin" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/src" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build code/main" />
+      <item itemvalue="Go Build.go build base58.go" />
+      <item itemvalue="Go Build.go build code/wallent" />
+      <item itemvalue="Go Build.go build code" />
+      <item itemvalue="Go Build.go build src/" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build code/main" />
+        <item itemvalue="Go Build.go build src/" />
+        <item itemvalue="Go Build.go build code" />
+        <item itemvalue="Go Build.go build code/wallent" />
+        <item itemvalue="Go Build.go build base58.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21770833" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104165" side_tool="true" weight="0.32855567" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992764" weight="0.32855567" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49895832" visible="true" weight="0.32855567" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911798" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/code/main/server.go</url>
+          <line>380</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/init/init.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/main/test.go" />
+    <entry file="file://$PROJECT_DIR$/src/github.com/boltdb/bolt/appveyor.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/chainModel.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/main/pow.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/tools/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/commandLine.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/main/blockModel.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/main/block.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/tools/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/tools/base58.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/wallent/wallets.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(12)/cli.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/wallent/wallet.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(11)/blockchain.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(12)/blockchain.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(13)/transaction_output.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(13)/blockchain.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(13)/transaction.go" />
+    <entry file="file://$USER_HOME$/Downloads/代码/代码(12)/transaction.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/main/chain.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/main/Iterator.go" />
+    <entry file="file://$PROJECT_DIR$/src/code/tools/base58.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/tools/serialize.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/block.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_listaddresses.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_reindexutxo.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_showchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/merkle.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/flag/flag.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="949" column="18" selection-start-line="949" selection-start-column="18" selection-end-line="949" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/net/net.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="362" column="5" selection-start-line="362" selection-start-column="5" selection-end-line="362" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/net/dial.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="583" column="43" selection-start-line="583" selection-start-column="43" selection-end-line="583" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/utxo_set.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/base58.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/proofofwork.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/transaction_input.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/transaction_output.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/wallents.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/wallet.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_createBlockChain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_createWallet.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_getbalance.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_send.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli_startnode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/cli.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440">
+          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18135">
+          <caret line="412" column="9" selection-start-line="412" selection-start-column="9" selection-end-line="412" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/blockchain_iterator.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/main/blockchain.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
